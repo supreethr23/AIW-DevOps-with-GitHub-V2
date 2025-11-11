@@ -291,7 +291,7 @@ In this exercise, you will build automation in GitHub for updating and republish
 
 1. Select **contoso-traders-<inject key="DeploymentID" enableCopy="false" />** resource group from the list.
 
-   ![](media/2dgn135.png)
+   ![](media/2dgn135upd.png)
 
 1. Select **productsdb** SQL database from the list of resources.
 
@@ -352,7 +352,7 @@ In this exercise, you will build automation in GitHub for updating and republish
 
 1. From your GitHub repository, select **Actions** **_(1)_** tab. Select the **contoso-traders-app-deployment** **_(2)_** workflow from the side blade, Click on the **drop-down** **_(3)_** next to **Run workflow** button, and select **Run workflow** **_(4)_**.
 
-    ![](media/2dgn159.png)
+    ![](media/2dgn159upd.png)
 
    > **Note:** If you can’t find the **contoso-traders-app-deployment** workflow, try closing and reopening Visual Studio Code to perform the  step 14 of Task 3 again. 
 
